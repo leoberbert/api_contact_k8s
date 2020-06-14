@@ -1,6 +1,6 @@
 ### API RestFul com Python, Flask e MongoDB no K8S(kubernetes) ###
 
-Para executar este projeto, recomendo que você já tenha um cluster k8s + NFS configurado, para isso basta seguir o tutorial "https://github.com/leoberbert/cluster-dev-k8s"
+Para executar este projeto, é necessário que você já tenha um cluster k8s + NFS configurado, para isso basta seguir o tutorial "https://github.com/leoberbert/cluster-dev-k8s"
 
 Este projeto, trata-se de uma API em Python utilizando flask que se conecta a um banco de dados mong para cadastro de contatos.
 
