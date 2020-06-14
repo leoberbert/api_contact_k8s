@@ -1,4 +1,4 @@
-### Deploy de aplicação no kubernetes ###
+### API RestFul com Python, Flask e MongoDB no K8S(kubernetes) ###
 
 Para executar este projeto, recomendo que você já tenha um cluster k8s + NFS configurado, para isso basta seguir o tutorial "https://github.com/leoberbert/cluster-dev-k8s"
 
